@@ -1,0 +1,191 @@
+=== 题目图片匹配处理报告 ===
+
+Excel文件: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1.xlsx
+Word文档: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学-配图1.docx
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1
+处理时间: 2025-12-02 00:26:28.627623
+
+=== 处理摘要 ===
+总行数: 89
+有<?>标记的行数: 24
+已分配的图片数: 34
+
+=== 详细处理结果 ===
+
+行序号: 5
+题型: 单项选择
+需要图片数: 5
+实际分配图片数: 5
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_5
+  图片1: 1.png
+  图片2: 2.png
+  图片3: 3.png
+  图片4: 4.png
+  图片5: 5.png
+
+行序号: 6
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_6
+  图片1: 1.png
+
+行序号: 13
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_13
+  图片1: 1.png
+
+行序号: 20
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_20
+  图片1: 1.png
+
+行序号: 62
+题型: 填空题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_62
+  图片1: 1.png
+
+行序号: 71
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_71
+  图片1: 1.png
+
+行序号: 72
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_72
+  图片1: 1.png
+
+行序号: 73
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_73
+  图片1: 1.png
+
+行序号: 74
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_74
+  图片1: 1.png
+
+行序号: 75
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_75
+  图片1: 1.png
+
+行序号: 76
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_76
+  图片1: 1.png
+
+行序号: 77
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_77
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 78
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_78
+  图片1: 1.png
+
+行序号: 79
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_79
+  图片1: 1.png
+
+行序号: 80
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_80
+  图片1: 1.png
+
+行序号: 81
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_81
+  图片1: 1.png
+
+行序号: 82
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_82
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 83
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_83
+  图片1: 1.png
+
+行序号: 84
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_84
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 85
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_85
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 86
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_86
+  图片1: 1.png
+
+行序号: 87
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_87
+  图片1: 1.png
+
+行序号: 88
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_88
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 89
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\离散数学\离散数学1\row_89
+  图片1: 1.png
+  图片2: 2.png

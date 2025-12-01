@@ -1,0 +1,87 @@
+=== 题目图片匹配处理报告 ===
+
+Excel文件: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构.xlsx
+Word文档: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构-配图.docx
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构
+处理时间: 2025-12-02 00:20:23.145685
+
+=== 处理摘要 ===
+总行数: 54
+有<?>标记的行数: 10
+已分配的图片数: 14
+
+=== 详细处理结果 ===
+
+行序号: 4
+题型: 自定义题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_4
+  图片1: 1.png
+
+行序号: 5
+题型: 自定义题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_5
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 6
+题型: 自定义题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_6
+  图片1: 1.png
+
+行序号: 8
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_8
+  图片1: 1.png
+
+行序号: 12
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_12
+  图片1: 1.png
+
+行序号: 16
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_16
+  图片1: 1.png
+
+行序号: 45
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_45
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 46
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_46
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 47
+题型: 计算题
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_47
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 52
+题型: 计算题
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\数据结构\数据结构\row_52
+  图片1: 1.png
