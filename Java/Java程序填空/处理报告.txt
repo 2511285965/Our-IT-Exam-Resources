@@ -1,0 +1,1033 @@
+=== 题目图片匹配处理报告 ===
+
+Excel文件: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空.xlsx
+Word文档: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空.docx
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空
+处理时间: 2025-12-04 12:40:01.004593
+
+=== 处理摘要 ===
+总行数: 146
+有<?>标记的行数: 144
+已分配的图片数: 156
+
+=== 详细处理结果 ===
+
+行序号: 1
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_1
+  图片1: 1.png
+
+行序号: 2
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_2
+  图片1: 1.png
+
+行序号: 3
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_3
+  图片1: 1.png
+
+行序号: 4
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_4
+  图片1: 1.png
+
+行序号: 5
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_5
+  图片1: 1.png
+
+行序号: 6
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_6
+  图片1: 1.png
+
+行序号: 7
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_7
+  图片1: 1.png
+
+行序号: 8
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_8
+  图片1: 1.png
+
+行序号: 9
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_9
+  图片1: 1.png
+
+行序号: 10
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_10
+  图片1: 1.png
+
+行序号: 11
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_11
+  图片1: 1.png
+
+行序号: 12
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_12
+  图片1: 1.png
+
+行序号: 13
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_13
+  图片1: 1.png
+
+行序号: 14
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_14
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 15
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_15
+  图片1: 1.png
+
+行序号: 16
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_16
+  图片1: 1.png
+
+行序号: 17
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_17
+  图片1: 1.png
+
+行序号: 18
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_18
+  图片1: 1.png
+
+行序号: 19
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_19
+  图片1: 1.png
+
+行序号: 20
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_20
+  图片1: 1.png
+
+行序号: 21
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_21
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 22
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_22
+  图片1: 1.png
+
+行序号: 23
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_23
+  图片1: 1.png
+
+行序号: 24
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_24
+  图片1: 1.png
+
+行序号: 25
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_25
+  图片1: 1.png
+
+行序号: 26
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_26
+  图片1: 1.png
+
+行序号: 27
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_27
+  图片1: 1.png
+
+行序号: 28
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_28
+  图片1: 1.png
+
+行序号: 29
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_29
+  图片1: 1.png
+
+行序号: 30
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_30
+  图片1: 1.png
+
+行序号: 31
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_31
+  图片1: 1.png
+
+行序号: 32
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_32
+  图片1: 1.png
+
+行序号: 33
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_33
+  图片1: 1.png
+
+行序号: 34
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_34
+  图片1: 1.png
+
+行序号: 35
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_35
+  图片1: 1.png
+
+行序号: 36
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_36
+  图片1: 1.png
+
+行序号: 37
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_37
+  图片1: 1.png
+
+行序号: 38
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_38
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 39
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_39
+  图片1: 1.png
+
+行序号: 40
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_40
+  图片1: 1.png
+
+行序号: 41
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_41
+  图片1: 1.png
+
+行序号: 42
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_42
+  图片1: 1.png
+
+行序号: 43
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_43
+  图片1: 1.png
+
+行序号: 44
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_44
+  图片1: 1.png
+
+行序号: 45
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_45
+  图片1: 1.png
+
+行序号: 46
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_46
+  图片1: 1.png
+
+行序号: 47
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_47
+  图片1: 1.png
+
+行序号: 48
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_48
+  图片1: 1.png
+
+行序号: 49
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_49
+  图片1: 1.png
+
+行序号: 50
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_50
+  图片1: 1.png
+
+行序号: 51
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_51
+  图片1: 1.png
+
+行序号: 52
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_52
+  图片1: 1.png
+
+行序号: 53
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_53
+  图片1: 1.png
+
+行序号: 54
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_54
+  图片1: 1.png
+
+行序号: 55
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_55
+  图片1: 1.png
+
+行序号: 56
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_56
+  图片1: 1.png
+  图片2: 2.wmf
+
+行序号: 57
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_57
+  图片1: 1.png
+
+行序号: 58
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_58
+  图片1: 1.png
+
+行序号: 59
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_59
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 60
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_60
+  图片1: 1.png
+
+行序号: 61
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_61
+  图片1: 1.png
+
+行序号: 62
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_62
+  图片1: 1.png
+
+行序号: 63
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_63
+  图片1: 1.png
+
+行序号: 64
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_64
+  图片1: 1.png
+
+行序号: 65
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_65
+  图片1: 1.png
+
+行序号: 66
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_66
+  图片1: 1.png
+
+行序号: 67
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_67
+  图片1: 1.png
+
+行序号: 68
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_68
+  图片1: 1.png
+
+行序号: 69
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_69
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 70
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_70
+  图片1: 1.png
+
+行序号: 71
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_71
+  图片1: 1.png
+
+行序号: 72
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_72
+  图片1: 1.png
+
+行序号: 73
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_73
+  图片1: 1.png
+
+行序号: 74
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_74
+  图片1: 1.png
+
+行序号: 75
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_75
+  图片1: 1.png
+
+行序号: 76
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_76
+  图片1: 1.png
+
+行序号: 77
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_77
+  图片1: 1.png
+
+行序号: 78
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_78
+  图片1: 1.png
+
+行序号: 79
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_79
+  图片1: 1.png
+
+行序号: 80
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_80
+  图片1: 1.png
+
+行序号: 81
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_81
+  图片1: 1.png
+
+行序号: 82
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_82
+  图片1: 1.png
+
+行序号: 83
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_83
+  图片1: 1.png
+
+行序号: 84
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_84
+  图片1: 1.png
+
+行序号: 85
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_85
+  图片1: 1.png
+
+行序号: 86
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_86
+  图片1: 1.png
+
+行序号: 87
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_87
+  图片1: 1.png
+
+行序号: 88
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_88
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 89
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_89
+  图片1: 1.png
+
+行序号: 90
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_90
+  图片1: 1.png
+
+行序号: 91
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_91
+  图片1: 1.png
+
+行序号: 92
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_92
+  图片1: 1.png
+
+行序号: 93
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_93
+  图片1: 1.png
+
+行序号: 94
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_94
+  图片1: 1.png
+
+行序号: 95
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_95
+  图片1: 1.png
+
+行序号: 96
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_96
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 97
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_97
+  图片1: 1.png
+
+行序号: 98
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_98
+  图片1: 1.png
+
+行序号: 99
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_99
+  图片1: 1.png
+
+行序号: 100
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_100
+  图片1: 1.png
+
+行序号: 101
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_101
+  图片1: 1.png
+
+行序号: 102
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_102
+  图片1: 1.png
+
+行序号: 103
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_103
+  图片1: 1.png
+
+行序号: 104
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_104
+  图片1: 1.png
+
+行序号: 105
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_105
+  图片1: 1.png
+
+行序号: 106
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_106
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 107
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_107
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 108
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_108
+  图片1: 1.png
+
+行序号: 109
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_109
+  图片1: 1.png
+
+行序号: 110
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_110
+  图片1: 1.png
+
+行序号: 111
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_111
+  图片1: 1.png
+
+行序号: 112
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_112
+  图片1: 1.png
+
+行序号: 113
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_113
+  图片1: 1.png
+
+行序号: 114
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_114
+  图片1: 1.png
+
+行序号: 115
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_115
+  图片1: 1.png
+
+行序号: 116
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_116
+  图片1: 1.png
+
+行序号: 117
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_117
+  图片1: 1.png
+
+行序号: 118
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_118
+  图片1: 1.png
+
+行序号: 119
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_119
+  图片1: 1.png
+
+行序号: 120
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_120
+  图片1: 1.png
+
+行序号: 121
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_121
+  图片1: 1.png
+
+行序号: 122
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_122
+  图片1: 1.png
+
+行序号: 123
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_123
+  图片1: 1.png
+
+行序号: 124
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_124
+  图片1: 1.png
+
+行序号: 125
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_125
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 126
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_126
+  图片1: 1.png
+
+行序号: 127
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_127
+  图片1: 1.png
+
+行序号: 129
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_129
+  图片1: 1.png
+
+行序号: 130
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_130
+  图片1: 1.png
+
+行序号: 131
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_131
+  图片1: 1.png
+
+行序号: 132
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_132
+  图片1: 1.png
+
+行序号: 133
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_133
+  图片1: 1.png
+
+行序号: 134
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_134
+  图片1: 1.png
+
+行序号: 135
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_135
+  图片1: 1.png
+
+行序号: 136
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_136
+  图片1: 1.png
+
+行序号: 137
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_137
+  图片1: 1.png
+
+行序号: 138
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_138
+  图片1: 1.png
+
+行序号: 140
+题型: 程序填空
+需要图片数: 2
+实际分配图片数: 2
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_140
+  图片1: 1.png
+  图片2: 2.png
+
+行序号: 141
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_141
+  图片1: 1.png
+
+行序号: 142
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_142
+  图片1: 1.png
+
+行序号: 143
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_143
+  图片1: 1.png
+
+行序号: 144
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_144
+  图片1: 1.png
+
+行序号: 145
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_145
+  图片1: 1.png
+
+行序号: 146
+题型: 程序填空
+需要图片数: 1
+实际分配图片数: 1
+输出目录: C:\Users\HP\Documents\GitHub\24-25-2-IT-Exam-Resources\Java\Java程序填空\row_146
+  图片1: 1.png
