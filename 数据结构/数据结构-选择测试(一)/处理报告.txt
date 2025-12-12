@@ -1,0 +1,111 @@
+=== 题目图片匹配处理报告 ===
+
+Excel文件: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一).xlsx
+Word文档: C:\Users\HP\Desktop\数据结构-选择测试（一）.docx
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)
+处理时间: 2025-12-11 21:01:17.119510
+
+=== 处理摘要 ===
+总行数: 100
+有<?>标记的行数: 14
+已分配的图片数: 14
+
+=== 详细处理结果 ===
+
+行序号: 24
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_24
+  图片1: 1.png
+
+行序号: 34
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_34
+  图片1: 1.png
+
+行序号: 37
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_37
+  图片1: 1.png
+
+行序号: 41
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_41
+  图片1: 1.png
+
+行序号: 42
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_42
+  图片1: 1.png
+
+行序号: 46
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_46
+  图片1: 1.png
+
+行序号: 54
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_54
+  图片1: 1.png
+
+行序号: 55
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_55
+  图片1: 1.png
+
+行序号: 61
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_61
+  图片1: 1.png
+
+行序号: 62
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_62
+  图片1: 1.png
+
+行序号: 63
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_63
+  图片1: 1.png
+
+行序号: 66
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_66
+  图片1: 1.png
+
+行序号: 67
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_67
+  图片1: 1.png
+
+行序号: 68
+题型: 单项选择
+需要图片数: 1
+实际分配图片数: 1
+输出目录: A:\250418_Py_auto_home_work\pythonProject\excel操作空间\数据结构-选择测试(一)\row_68
+  图片1: 1.png
